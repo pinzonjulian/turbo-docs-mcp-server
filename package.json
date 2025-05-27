@@ -1,7 +1,7 @@
 {
   "name": "turbo-docs-mcp-server",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "build": "tsc && chmod 755 build/index.js"
